@@ -47,8 +47,8 @@ cypress/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/cypress-amazon-tests.git
-cd cypress-amazon-tests
+git clone git@github.com:PazE1/capitolis.git
+cd capitolis
 ```
 
 2. Run Cypress in Interactive Mode (UI)
